@@ -6,7 +6,7 @@
 
 ### Education
 
-* 🏫 Currently doing Master Degree in Software Technology
+* 📚 Currently doing Master Degree in Software Technology
 * 🎓 Absolvated Bachelor Degree in Computer Science
 
 ### Programming Skills

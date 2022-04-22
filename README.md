@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+💬 Ask me about anything in the [Discussions](https://github.com/felixsteinke/felixsteinke/discussions)
+
 ### Personal Information
 
 * 🌍 from Germany

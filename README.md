@@ -4,28 +4,29 @@
 
 ### Personal Information
 
-* 🌍 from Germany
+🌍 from Germany
 
 ### Education
 
-* 📚 Currently doing Master Degree in Software Technology
-* 🎓 Absolvated Bachelor Degree in Computer Science
+📚 Currently doing Master Degree in Software Technology
 
-### Programming Skills
-
-* 9️⃣/🔟 Java
-  * 9️⃣/🔟 Spring Boot
-  * 8️⃣/🔟 Quarkus
-* 8️⃣/🔟 TypeScript
-  * 7️⃣/🔟 Angular
-* 7️⃣/🔟 C#
-  * 7️⃣/🔟 .NET
-* Others
-  * HTML, CSS, SQL
+🎓 Absolvated Bachelor Degree in Computer Science
 
 ### Working On
 
-* 🛠️ Application for personal usage: [Home Planner](https://github.com/home-planner-group)
+🛠️ Application for personal usage: [Home Planner](https://github.com/home-planner-group)
+
+### Programming Skills (of 🔟) 
+
+* Java 9️⃣
+  * Spring Boot 9️⃣
+  * Quarkus 8️⃣
+* TypeScript 8️⃣
+  * Angular 7️⃣
+* C# 7️⃣
+  * .NET 7️⃣
+* Others
+  * HTML, CSS, SQL
 
 ### Student Projects
 

@@ -25,6 +25,7 @@
   * Angular 7️⃣
 * C# 7️⃣
   * .NET 7️⃣
+* Python 5️⃣
 * Others
   * HTML, CSS, SQL
 

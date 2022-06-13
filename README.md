@@ -18,13 +18,9 @@
 
 ### Programming Skills (of 🔟) 
 
-* Java 9️⃣
-  * Spring Boot 9️⃣
-  * Quarkus 8️⃣
-* TypeScript 8️⃣
-  * Angular 7️⃣
-* C# 7️⃣
-  * .NET 7️⃣
+* Java 9️⃣ (Spring Boot 9️⃣, Quarkus 8️⃣, Java EE 5️⃣)
+* TypeScript 8️⃣ (Angular 7️⃣)
+* C# 7️⃣ (.NET 7️⃣)
 * Python 5️⃣
 * Others
   * HTML, CSS, SQL

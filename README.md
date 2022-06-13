@@ -29,19 +29,6 @@
 * Others
   * HTML, CSS, SQL
 
-### Student Projects
-
-* Software Technology
-  * [Datastructures and Algorithms](https://github.com/felixsteinke/Motion-Planner)
-* Computer Science
-  * [Geo Visualization](https://github.com/felixsteinke/Leaflet-Geo-Visualization)
-  * [Data Mining](https://github.com/felixsteinke/DataMining-ArffGenerator)
-  * [Distributed Systems](https://github.com/felixsteinke/Distributed-Systems-Templates)
-  * [Datastructures and Algorithms](https://github.com/felixsteinke/RCPSP-Scheduler)
-  * [C-Programming](https://github.com/felixsteinke/C-Prototypes)
-  * [Software Project 1](https://github.com/felixsteinke/Java-RMI-Simulator)
-  * [Internet Programming](https://github.com/felixsteinke/IPR-EasyKitchen)
-
 
 <!--
 **felixsteinke/felixsteinke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

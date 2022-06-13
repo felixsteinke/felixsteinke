@@ -18,12 +18,11 @@
 
 ### Programming Skills (of 🔟) 
 
-* Java 9️⃣ (Spring Boot 9️⃣, Quarkus 8️⃣, Java EE 5️⃣)
-* TypeScript 8️⃣ (Angular 7️⃣)
-* C# 7️⃣ (.NET 7️⃣)
-* Python 5️⃣
-* Others
-  * HTML, CSS, SQL
+* __Java__ 9️⃣ (Spring Boot 9️⃣, Quarkus 8️⃣, Java EE 5️⃣)
+* __TypeScript, HTML, CSS__ 8️⃣ (Angular 8️⃣)
+* __SQL__ 8️⃣
+* __C#__ 7️⃣ (.NET 7️⃣)
+* __Python__ 6️⃣
 
 
 <!--

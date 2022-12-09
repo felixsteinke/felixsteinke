@@ -12,17 +12,22 @@
 
 🎓 Absolvated Bachelor Degree in Computer Science
 
-### Working On
+### Languages
 
-🛠️ Application for personal usage: [Home Planner](https://github.com/home-planner-group)
+* __German__:                0%[====================]100%
+* __English__:               0%[=================== ]100%
 
 ### Programming Skills (of 🔟) 
 
-* __Java__ 9️⃣ (Spring Boot 9️⃣, Quarkus 8️⃣, Java EE 5️⃣)
-* __TypeScript, HTML, CSS__ 8️⃣ (Angular 8️⃣)
-* __SQL__ 8️⃣
-* __C#__ 7️⃣ (.NET 7️⃣)
-* __Python__ 6️⃣
+* __Java__:                  0%[====================]100%
+  * Frameworks: Spring Boot, Quarkus, (Java EE)
+* __C#__:                    0%[==================  ]100%
+  * Frameworks: ASP.NET Core 
+* __TypeScript, HTML, CSS__: 0%[==================  ]100%
+  * Frameworks: Angular, (VueJS)
+* __SQL__:                   0%[==================  ]100%
+  * Databases: MySQL, Postgres, (MS SQL)
+* __Python__:                0%[==========          ]100%
 
 
 <!--

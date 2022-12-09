@@ -25,6 +25,7 @@
 | __TypeScript, HTML, CSS__ | 🌍➖➖➖➖➖➖➖➖🚀➖🌘 | Angular, (VueJS)                |
 | __SQL__                   | 🌍➖➖➖➖➖➖➖➖🚀➖🌘 | MySQL, Postgres, (MS SQL)       |
 | __Python__                | 🌍➖➖➖➖➖🚀➖➖➖➖🌘 |                                 |
+| __C++__                   | 🌍➖➖➖➖🚀➖➖➖➖➖🌘 |                                 |
 
 
 <!--

@@ -4,30 +4,27 @@
 
 ### Personal Information
 
-🌍 from Germany
-
+🏡 I'm from Germany.
 ### Education
 
 📚 Currently doing Master Degree in Software Technology
 
 🎓 Absolvated Bachelor Degree in Computer Science
 
-### Languages
+### Skills
 
-* __German__:                0%[====================]100%
-* __English__:               0%[=================== ]100%
+| Language    | Level (0 - 100%)               |
+|:------------|:------------------------------:|
+| __German__  | 🌍➖➖➖➖➖➖➖➖➖🚀🌘 |
+| __English__ | 🌍➖➖➖➖➖➖➖➖🚀➖🌘 |
 
-### Programming Skills (of 🔟) 
-
-* __Java__:                  0%[====================]100%
-  * Frameworks: Spring Boot, Quarkus, (Java EE)
-* __C#__:                    0%[==================  ]100%
-  * Frameworks: ASP.NET Core 
-* __TypeScript, HTML, CSS__: 0%[==================  ]100%
-  * Frameworks: Angular, (VueJS)
-* __SQL__:                   0%[==================  ]100%
-  * Databases: MySQL, Postgres, (MS SQL)
-* __Python__:                0%[==========          ]100%
+| Programming               | Level (0 - 100%)               | Further Frameworks/Tools        |
+|:--------------------------|:------------------------------:|:--------------------------------|
+| __Java__                  | 🌍➖➖➖➖➖➖➖➖➖🚀🌘 | Spring Boot, Quarkus, (Java EE) |
+| __C#__                    | 🌍➖➖➖➖➖➖➖➖➖🚀🌘 | ASP.NET Core                    |
+| __TypeScript, HTML, CSS__ | 🌍➖➖➖➖➖➖➖➖🚀➖🌘 | Angular, (VueJS)                |
+| __SQL__                   | 🌍➖➖➖➖➖➖➖➖🚀➖🌘 | MySQL, Postgres, (MS SQL)       |
+| __Python__                | 🌍➖➖➖➖➖🚀➖➖➖➖🌘 |                                 |
 
 
 <!--
